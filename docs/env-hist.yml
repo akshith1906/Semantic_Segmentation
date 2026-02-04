@@ -1,0 +1,9 @@
+name: cv-as4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - python
+  - ipykernel
+prefix: /home/varun/miniconda3/envs/cv-as4
